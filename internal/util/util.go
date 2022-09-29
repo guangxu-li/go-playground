@@ -4,6 +4,6 @@ import (
 	"github.com/guangxu-li/go-playground/internal/helper"
 )
 
-func print() {
+func Print() {
 	helper.DummyFunc()
 }

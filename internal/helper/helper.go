@@ -3,7 +3,7 @@ package helper
 import "fmt"
 
 func init() {
-	fmt.Println("init first time")
+	fmt.Println("init time |")
 }
 
 func DummyFunc() {}

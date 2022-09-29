@@ -1,3 +1,3 @@
-module go-playground
+module github.com/guangxu-li/go-playground
 
-go 1.18
+go 1.19
